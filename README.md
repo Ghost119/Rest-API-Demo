@@ -7,11 +7,11 @@ It is a sample project to apply basic CRUD operations(Create, Read, Update, Dele
   - "/cars" : Get all the cars in the car repo.
   - "/cars/{cid}" : Get the car with car ID equal to cid.
 - **Post:**
-  - "/cars" : Save the car object in resquest body in car repo. 
+  - "/cars" : Save the car object in the request body in car repo. 
 - **Put:**
-  - "/cars/{cid}" : Update the car with car ID equal to cid if it exists.
+  - "/cars/{cid}" : Update the car with car ID equal to cid, if it exists.
 - **Delete:** 
-  - "/cars/{cid}" : Delete the car with car ID equal to cid if it exists.
+  - "/cars/{cid}" : Delete the car with car ID equal to cid, if it exists.
   
 ### Tools/Frameworks/Libraries used:
 
