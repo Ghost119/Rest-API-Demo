@@ -1,6 +1,6 @@
 # Building RESTful API using Spring MVC
 
-It is a sample project to apply basic CRUD operations(Create, Read, Update, Delete) on a Car Repositry using a controller and service layer.
+It is a sample project to apply basic CRUD operations(Create, Read, Update, Delete) on a Car Repository using a controller and service layer.
 
 ### End Points Exposed:
 - **Get:**
